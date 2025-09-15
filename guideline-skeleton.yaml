@@ -1,5 +1,5 @@
 title: Golang - Gin Guidelines
-description: Golang - Gin Guideliens
+description: Best practices and practical guidelines for building robust, maintainable web services in Go using the Gin framework.
 tags:
   - junie
   - golang

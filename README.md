@@ -20,6 +20,7 @@ Want to add a new guideline, rule, or prompt? Here’s how you can contribute:
    Please include the following fields for consistency:
    - `tags`: List of tags to help categorize your guideline (e.g., `["Go", "Gin"]`).
    - `title`: A clear, descriptive title for your guideline.
+   - `description`: A brief summary explaining what your guideline covers.
    - `content`: The main body of your prompt or rule. Be concise but thorough enough to help developers and AI tools.
    - `author`: Add your name or GitHub username, and optionally a link to your profile (e.g., `name: yourname`, `url: https://github.com/yourname`).
 
